@@ -1,0 +1,2 @@
+[0819/134846.243:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[0824/160134.667:ERROR:file_io_win.cc(243)] SetEndOfFile: La operación solicitada no se puede realizar en un archivo con una sección asignada a usuario abierta. (0x4C8)
